@@ -17,3 +17,19 @@
 .titleText2 {
     font-family: 'Akaya Telivigala', cursive;
 }
+
+a:link {
+    color: #ffffff;
+}
+  
+a:visited {
+    color: #ffffff;
+}
+  
+a:hover {
+    color: #ffffff;
+}
+  
+a:active {
+    color: #ffffff;
+}
