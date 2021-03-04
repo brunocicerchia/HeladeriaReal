@@ -33,3 +33,7 @@ a:hover {
 a:active {
     color: #ffffff;
 }
+
+.carousel-item2 {
+    height: 70vh;
+  }
